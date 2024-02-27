@@ -13,6 +13,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   animation:spin 10s linear infinite;
+  position: absolute;
 
 
   font-synthesis: none;
