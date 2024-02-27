@@ -1,4 +1,6 @@
 import "./App.css";
+import Button from "./Compontents/Button";
+import "./styles/main.scss";
 
 function App() {
   return (
@@ -8,6 +10,7 @@ function App() {
       <p>Dette er en paragraf, den har jeg skrevet ish </p>
       <p>Bank Bank</p>
       <p>Hvem der?</p>
+      <Button></Button>
     </>
   );
 }
