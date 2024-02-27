@@ -4,9 +4,10 @@ function App() {
   return (
     <>
       <h1>Git Repo Collab</h1>
-      <p>Dette er en paragraf, den har jeg skrevet</p>
-      <p>hei</p>
-      <h3>stygg</h3>
+      <h2>Stygg</h2>
+      <p>Dette er en paragraf, den har jeg skrevet ish </p>
+      <p>Bank Bank</p>
+      <p>Hvem der?</p>
     </>
   );
 }
